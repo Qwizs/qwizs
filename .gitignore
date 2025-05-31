@@ -19,6 +19,8 @@ prototype-backend/dist/
 prototype-backend/.env
 prototype-backend/coverage/
 prototype-backend/*.log
+prototype-backend/.gitignore
+prototype-backend/.gitattributes
 
 # Frontend
 prototype-frontend/.git/
